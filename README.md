@@ -1,30 +1,37 @@
-# SistemaRU
-Sistema de gerenciamento de cardápio semanal para Restaurante Universitário desenvolvido em Java puro.
-📋 Funcionalidades
+# Sistema de Cardápio do RU - Java
 
-Cadastro de Alimentos: Registra saladas, pratos principais e acompanhamentos
-Montagem de Refeições: Combina os alimentos cadastrados para formar refeições completas
-Criação de Menus: Associa refeições aos dias da semana e turnos (almoço/jantar)
-Visualização do Cardápio: Exibe o cardápio semanal completo de forma organizada
+Sistema de gerenciamento de cardápio semanal para Restaurante Universitário, desenvolvido em Java puro.
 
-🚀 Como usar
-bash# Compilar
+## Funcionalidades
+
+- Cadastro de alimentos (saladas, pratos principais, acompanhamentos)
+- Montagem de refeições completas
+- Criação de menus semanais (dias da semana e turnos)
+- Visualização organizada do cardápio
+
+## Como usar
+
+```bash
 javac *.java
-
-# Executar
 java SistemaRU
-💻 Estrutura
 
-Sistema orientado a objetos com 4 classes principais
-Interface via terminal com menu interativo
+
+```
+## Estrutura
+4 classes principais orientadas a objetos
+
+Interface via terminal interativo
+
 Validação de tipos de alimentos
-Armazenamento em memória durante execução
 
-🛠️ Tecnologias
+Armazenamento em memória durante a execução
 
+## Tecnologias
 Java SE
-POO (Programação Orientada a Objetos)
+
+Programação Orientada a Objetos
+
 Collections Framework (List, Map)
 
-
-Projeto desenvolvido como exercício de programação em Java para praticar conceitos de orientação a objetos e estruturas de dados.
+## Sobre
+Projeto desenvolvido como exercício prático de programação em Java, com foco em orientação a objetos e estruturas de dados.
